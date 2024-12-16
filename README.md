@@ -1,4 +1,9 @@
-## ¡Hola! Soy un desarrollador de software de Barcelona👋
+## Software developer from barcelona👋
+
+<div >
+  <img src="/banner.png">
+</div>
+
 
 <!--
 **mauroserralvodev/mauroserralvodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
