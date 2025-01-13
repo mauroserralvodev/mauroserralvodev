@@ -1,4 +1,4 @@
-<h1 style="text-center">Software developer from barcelona👋</h1>
+## Software developer from barcelona👋
 
 <div >
   <img src="/banner.png">
