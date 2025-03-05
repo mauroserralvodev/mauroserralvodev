@@ -1,7 +1,7 @@
 ## Software developer from barcelona👋
 
 <div >
-  <img src="/banner.png">
+  <img src="/bannerG.png">
 </div>
 
 
