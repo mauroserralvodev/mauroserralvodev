@@ -1,21 +1,39 @@
-## Software developer from barcelona👋
+## Mauro Serralvo | Software Developer from Barcelona
+**AI-Powered Software Solutions | Brinpage**  
 
-<div >
-  <img src="/bannerG.png">
+<div align="center">
+  <img src="/bannerG.png" alt="Brinpage Technology Solutions" width="100%">
 </div>
 
+---
 
-<!--
-**mauroserralvodev/mauroserralvodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### �︁ Corporate Profile  
+**Brinpage** es una firma de desarrollo tecnológico especializada en:  
+✓ Integración estratégica de IA en operaciones empresariales  
+✓ Desarrollo de plataformas SaaS escalables  
+✓ Ingeniería de software basada en modelos LLM 
+✓ Soluciones B2B para optimización de procesos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Projects  
+
+#### **LiftCode Enterprise** - _AI Development Suite_  
+`v1.4.2` | `Production Ready` | [Documentación](https://liftcode.net)  
+- Motor de generación de código con previsualización en tiempo real  
+- Modelo fine-tuneado con 1.2M parámetros  
+- Integración nativa con IDEs corporativos  
+
+#### **Brinpage AI Core**  
+- Framework propietario para implementación de IA:  
+  → Procesamiento de lenguaje natural  
+  → Automatización de workflows  
+  → Sistemas de recomendación predictiva  
+
+#### **Enterprise Solutions**  
+- Desarrollo de software a medida bajo demanda  
+- Migración cloud y arquitecturas serverless  
+- Plataformas de análisis business intelligence  
+
+---
+
