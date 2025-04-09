@@ -1,5 +1,3 @@
-## Mauro Serralvo | Software Developer from Barcelona
-
 <div align="center">
   <img src="/bannerG.png" alt="Brinpage Technology Solutions" width="100%">
 </div>
