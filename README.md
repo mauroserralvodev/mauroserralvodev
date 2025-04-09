@@ -4,33 +4,32 @@
 
 ---
 
-### �︁ Corporate Profile  
-**Brinpage** es una firma de desarrollo tecnológico especializada en:  
-✓ Integración estratégica de IA en operaciones empresariales  
-✓ Desarrollo de plataformas SaaS escalables  
-✓ Ingeniería de software basada en modelos LLM 
-✓ Soluciones B2B para optimización de procesos  
+### 🏢 Corporate Profile  
+**Brinpage** is a technology development firm specializing in:  
+✓ Strategic AI integration in business operations  
+✓ Scalable SaaS platform development  
+✓ LLM-based software engineering  
+✓ B2B process optimization solutions  
 
 ---
 
 ### 🧠 Core Projects  
 
 #### **LiftCode Enterprise** - _AI Development Suite_  
-`v1.4.2` | `Production Ready` | [Documentación](https://docs.brinpage.com)  
-- Motor de generación de código con previsualización en tiempo real  
-- Modelo fine-tuneado con 1.2M parámetros  
-- Integración nativa con IDEs corporativos  
+`v1.4.2` | `Production Ready` | [Documentation](https://docs.brinpage.com)  
+- Code generation engine with real-time preview  
+- Fine-tuned model with 1.2M parameters  
+- Native integration with corporate IDEs  
 
-#### **Brinpage Core AI **  
-- Framework propietario para implementación de IA:  
-  → Procesamiento de lenguaje natural  
-  → Automatización de workflows  
-  → Sistemas de recomendación predictiva  
+#### **Brinpage Core AI**  
+- Proprietary implementation framework for:  
+  ▸ Natural language processing  
+  ▸ Workflow automation  
+  ▸ Predictive recommendation systems  
 
 #### **Enterprise Solutions**  
-- Desarrollo de software a medida bajo demanda  
-- Migración cloud y arquitecturas serverless  
-- Plataformas de análisis business intelligence  
+- Custom software development (on-demand)  
+- Cloud migration & serverless architectures  
+- Business intelligence analytics platforms  
 
 ---
-
