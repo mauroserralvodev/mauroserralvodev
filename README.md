@@ -1,5 +1,4 @@
 ## Mauro Serralvo | Software Developer from Barcelona
-**AI-Powered Software Solutions | Brinpage**  
 
 <div align="center">
   <img src="/bannerG.png" alt="Brinpage Technology Solutions" width="100%">
@@ -19,12 +18,12 @@
 ### 🧠 Core Projects  
 
 #### **LiftCode Enterprise** - _AI Development Suite_  
-`v1.4.2` | `Production Ready` | [Documentación](https://liftcode.net)  
+`v1.4.2` | `Production Ready` | [Documentación](https://docs.brinpage.com)  
 - Motor de generación de código con previsualización en tiempo real  
 - Modelo fine-tuneado con 1.2M parámetros  
 - Integración nativa con IDEs corporativos  
 
-#### **Brinpage AI Core**  
+#### **Brinpage Core AI **  
 - Framework propietario para implementación de IA:  
   → Procesamiento de lenguaje natural  
   → Automatización de workflows  
