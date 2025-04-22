@@ -36,14 +36,13 @@ Brinpage is a solo-founded software company focused on building products powered
 - [brinpage.com](https://brinpage.com) – Official site  
 - [liftcode.net](https://liftcode.net) – AI dev tool  
 - [docs.brinpage.com](https://docs.brinpage.com) – Developer documentation  
-- [support.brinpage.com](https://support.brinpage.com) – Help center  
 
 ---
 
 ### 🔗 Connect
 
-Follow me:  
-[My Instagram](https://instagram.com/mauroserralvo) 
+Personal Media:  
+[Instagram](https://instagram.com/mauroserralvo) 
 
 Follow BrinPage:  
 [BrinPage Instagram](https://instagram.com/brinpageai) • [BrinPage TikTok](https://tiktok.com/@brinpageai) • [BrinPage YouTube](https://youtube.com/@brinpageai)
