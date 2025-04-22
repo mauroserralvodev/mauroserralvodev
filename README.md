@@ -15,22 +15,22 @@ Brinpage is a solo-founded software company focused on building products powered
 
 - **BirdMind** – Brinpage’s proprietary conversational AI model  [brinpage.com](https://brinpage.com/birdmind)
   
-  ▸ Built for real-time natural language understanding  
-  ▸ Custom-trainable with client data  
-  ▸ REST API for full integration into any workflow  
+    ▸ Built for real-time natural language understanding  
+    ▸ Custom-trainable with client data  
+    ▸ REST API for full integration into any workflow  
 
 -  **Liftcode** – AI-native web app generator  [liftcode.net](https://liftcode.net)
   
-  ▸ Powered entirely by BirdMind  
-  ▸ Create full-stack web apps from natural language prompts  
-  ▸ Code preview, export & Stripe integration  
-  ▸ Developer-first pricing model: from $4.98/month  
+    ▸ Powered entirely by BirdMind  
+    ▸ Create full-stack web apps from natural language prompts  
+    ▸ Code preview, export & Stripe integration  
+    ▸ Developer-first pricing model: from $4.98/month  
 
 -  **Enterprise Development**  [brinpage.com](https://brinpage.com/b2b-services)
   
-  ▸ Custom software solutions
-  ▸ AI-driven process automation for B2B clients  
-  ▸ BirdMind model licensing & integration services  
+    ▸ Custom software solutions
+    ▸ AI-driven process automation for B2B clients  
+    ▸ BirdMind model licensing & integration services  
 
 ---
 
