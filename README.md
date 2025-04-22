@@ -27,7 +27,7 @@ Brinpage is a solo-founded software company focused on building products powered
     ▸ Developer-first pricing model: from $4.98/month  
 
 -  **Enterprise Development**  [brinpage.com](https://brinpage.com/b2b-services)
-  
+
     ▸ Custom software solutions
     ▸ AI-driven process automation for B2B clients  
     ▸ BirdMind model licensing & integration services  
