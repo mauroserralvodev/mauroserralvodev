@@ -29,8 +29,8 @@ Brinpage is a solo-founded software company focused on building products powered
 -  **Enterprise Development**  [brinpage.com](https://brinpage.com/b2b-services)
 
     ▸ Custom software solutions
+    ▸ BirdMind model licensing & integration services
     ▸ AI-driven process automation for B2B clients  
-    ▸ BirdMind model licensing & integration services  
 
 ---
 
