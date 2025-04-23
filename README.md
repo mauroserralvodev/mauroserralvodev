@@ -5,12 +5,6 @@ Working on private repositories
 
 ---
 
-###  BrinPage | AI-First Software Company
-
-Brinpage is a solo-founded software company focused on building products powered by proprietary conversational AI. We build tools that think, talk, and adapt — not just execute.
-
----
-
 ### 🚀 Current Focus
 
 - **BirdMind** – Brinpage’s proprietary conversational AI model  [brinpage.com](https://brinpage.com/birdmind)
