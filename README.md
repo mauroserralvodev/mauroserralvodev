@@ -41,6 +41,6 @@ Personal Media:
 [Instagram](https://instagram.com/mauroserralvo) 
 
 Follow BrinPage:  
-[BrinPage Instagram](https://instagram.com/brinpageai) • [BrinPage TikTok](https://tiktok.com/@brinpageai) • [BrinPage YouTube](https://youtube.com/@brinpageai)
+[BrinPage Instagram](https://instagram.com/brinpageai) • [BrinPage TikTok](https://tiktok.com/@brinpageai) • [BrinPage YouTube](https://youtube.com/@brinpage)
 
 ---
