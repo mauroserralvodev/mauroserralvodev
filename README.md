@@ -30,7 +30,7 @@ Working on private repositories
 ### 🌐 Web Presence
 
 - [brinpage.com](https://brinpage.com) – Official site  
-- [liftcode.net](https://liftcode.net) – AI dev tool  
+- [liftcode.net](https://liftcode.net) – AI code generator
 - [docs.brinpage.com](https://docs.brinpage.com) – Developer documentation  
 
 ---
