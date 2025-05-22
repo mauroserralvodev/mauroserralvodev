@@ -1,6 +1,6 @@
 Working on private repositories  
 <div align="center">
-  <img src="/banner-github.png" alt="Brinpage Technology Solutions" width="100%">
+  <img src="/gbanner.png" alt="Brinpage Technology Solutions" width="100%">
 </div>
 
 ---
