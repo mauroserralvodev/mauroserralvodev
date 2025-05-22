@@ -37,7 +37,9 @@ Working on private repositories
 
 Educational Content:  
 ▸ [YouTube – @brinpage](https://youtube.com/@brinpage) – Programming & product demos  
+
 ▸ [TikTok – @brinpageai](https://tiktok.com/@brinpageai) – Tech tips & product showcases
+
 ▸ [Instagram – @brinpageai](https://instagram.com/brinpageai) – Tech tips & product showcases
 
 Personal Media:  
