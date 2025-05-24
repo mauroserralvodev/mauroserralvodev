@@ -7,7 +7,7 @@ Working on private repositories
 
 ### 🚀 Current Focus
 
-- **Brinpage Board** – Visual canvas powered by AI  
+- **Brinpage Board** – Visual canvas powered by AI  - [board.brinpage.com](https://board.brinpage.com)
   ▸ Generate text and images directly inside the canvas  
   ▸ Ideal for project planning, brainstorming, and product design  
   ▸ Credit-based usage system + subscription/paywall integration coming soon
