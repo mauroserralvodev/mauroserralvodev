@@ -5,19 +5,14 @@ Working on private repositories
 
 ---
 
-### 🚀 Current Focus
+### Web Presence
 
-Working on the creation and training of advanced AI models.
-
----
-
-### 🌐 Web Presence
-
-- [mauroserralvo.com](https://mauroserralvo.com) – My site  
-- [brinpage.com](https://brinpage.com) – Official site  
+- [mauroserralvo.com](https://mauroserralvo.com) – Personal website  
+- [brinpage.com](https://brinpage.com) – Brinpage website  
 - [docs.brinpage.com](https://docs.brinpage.com) – Developer documentation
 
 ---
-<div align="center">
+
+<div>
   <img src="/tag.png" alt="Brinpage Technology Solutions" width="20%">
 </div>
