@@ -1,6 +1,6 @@
 Working on private repositories  
 <div align="center">
-  <img src="/bannergit.png" alt="Brinpage Technology Solutions" width="100%">
+  <img src="/banner.png" alt="Brinpage Technology Solutions" width="100%">
 </div>
 
 ---
@@ -18,3 +18,6 @@ Working on the creation and training of advanced AI models.
 - [docs.brinpage.com](https://docs.brinpage.com) – Developer documentation
 
 ---
+<div align="center">
+  <img src="/tag.png" alt="Brinpage Technology Solutions" width="20%">
+</div>
