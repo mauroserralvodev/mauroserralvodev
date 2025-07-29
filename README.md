@@ -7,6 +7,8 @@ Working on private repositories
 
 <div>
   <img src="/tag.png" alt="Brinpage Technology Solutions" width="20%">
-  - [mauroserralvo.com](https://mauroserralvo.com) – Personal website  
-  - [brinpage.com](https://brinpage.com) – Brinpage website
 </div>
+
+- [mauroserralvo.com](https://mauroserralvo.com) – Personal website  
+
+- [brinpage.com](https://brinpage.com) – Brinpage website
