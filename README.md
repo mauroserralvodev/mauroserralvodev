@@ -10,7 +10,7 @@ Working on private repositories
       <img src="/brinpage-card.png" alt="Brinpage Technology Solutions" width="20%">
   </a>
   <a href="https://mauroserralvo.com">
-      <img src="/portfolio.png" alt="Brinpage Technology Solutions" width="40%">
+      <img src="/portfolio.png" alt="Brinpage Technology Solutions" width="20%">
   </a>
 </div>
 
