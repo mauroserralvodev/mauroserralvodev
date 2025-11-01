@@ -1,6 +1,6 @@
 Working on private repositories  
 <div align="center">
-  <img src="/banner.png" alt="Banner" width="100%">
+  <img src="/gitbanner.png" alt="Banner" width="100%">
 </div>
 
 ---
