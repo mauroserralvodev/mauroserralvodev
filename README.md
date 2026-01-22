@@ -1,9 +1,7 @@
 Working on private repositories  
 <div align="center">
-  <img src="/gitbanner.png" alt="Banner" width="100%">
+  <img src="/bannergithub.png" alt="Banner" width="100%">
 </div>
-
----
 
 <div>
   <a href="https://brinpage.com">
@@ -13,5 +11,6 @@ Working on private repositories
       <img src="/portfolio.png" alt="Personal Portfolio" width="29%">
   </a>
 </div>
+
 
 NPM: https://www.npmjs.com/~mauroserralvo
