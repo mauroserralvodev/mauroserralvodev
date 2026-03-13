@@ -11,7 +11,7 @@ Working on private repositories
       <img src="/portfolio.png" alt="Portfolio Card" width="29%">
   </a>
   <a href="https://mauroserralvo.com">
-      <img src="/hackathon.png" alt="Hackathon Winner Card" width="39%">
+      <img src="/hackathon.png" alt="Hackathon Winner Card" width="42%">
   </a>
 </div>
 <br/>
