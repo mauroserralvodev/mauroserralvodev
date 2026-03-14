@@ -16,8 +16,7 @@ Working on private repositories
 </div>
 <br/>
 
-Software developer and founder of **Brinpage**, an AI infrastructure platform for building and running AI agents across company data and tools.  
-Winner of the **Open Gateway Hackathon (Nokia × GSMA)** at Talent Arena 2026.
+Software developer and founder of **Brinpage**, an AI infrastructure platform for building and running AI agents across company data and tools. 1st Place Winner at the **Open Gateway Hackathon (Nokia × GSMA)** 2026.
 
 <br/>
 NPM: https://www.npmjs.com/~mauroserralvo
