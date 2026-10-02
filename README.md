@@ -1,22 +1,9 @@
-Working on private repositories  
 <div align="center">
   <img src="/bannergithub.png" alt="Banner" width="100%">
 </div>
 <br/>
-<div>
-  <a href="https://brinpage.com">
-      <img src="/brinpage-card.png" alt="Brinpage Card" width="20%">
-  </a>
-  <a href="https://mauroserralvo.com">
-      <img src="/portfolio.png" alt="Portfolio Card" width="29%">
-  </a>
-  <a href="https://www.gsma.com/solutions-and-impact/gsma-open-gateway/open-gateway-hackathon-at-talent-arena-showcases-developer-innovation-using-network-apis/">
-      <img src="/hackathon.png" alt="Hackathon Winner Card" width="43%">
-  </a>
-</div>
-<br/>
+Founder of **[Brinpage](https://brinpage.com/)**. Independent builder, winner of the **2026 Nokia × GSMA Open Gateway Hackathon**, and top-20 finalist at a European hackathon.
 
-Software developer and founder of **Brinpage**, an AI infrastructure platform for building and running AI agents across company data and tools. 1st Place Winner at the **Open Gateway Hackathon (Nokia × GSMA)** 2026.
+Author of **[From Links to Probabilistic Visibility: How AI Search Rewrites the Structure of the Internet](https://www.mauroserralvo.com/pdf/From-Links-to-Probabilistic-Visibility-How-AI-Search-Rewrites-the-Structure-of-the-Internet.pdf)**.
 
-<br/>
-NPM: https://www.npmjs.com/~mauroserralvo
+[mauroserralvo.com](https://mauroserralvo.com) · [npm](https://www.npmjs.com/~mauroserralvo)
