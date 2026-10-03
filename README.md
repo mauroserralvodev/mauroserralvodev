@@ -4,8 +4,6 @@
 
 <br>
 
-<h1>Mauro Serralvo</h1>
-
 <p>
   Founder of <strong><a href="https://brinpage.com/">Brinpage</a></strong>.
   Independent builder, winner of the <strong>2026 Nokia × GSMA Open Gateway Hackathon</strong>,
